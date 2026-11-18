@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Catalog uuid="3bcce34b-b6e9-4342-a4cc-fb107ef3f933">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НаправленияДеятельности" category="Object">
+				<xr:TypeId>e335c94c-38a3-406e-913b-d980b9c16d34</xr:TypeId>
+				<xr:ValueId>7d70f8cd-3baa-4cae-a3ba-98af3944f396</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НаправленияДеятельности" category="Ref">
+				<xr:TypeId>d8bb5c0c-7b8f-46e4-8f35-24dcc1d29939</xr:TypeId>
+				<xr:ValueId>97494792-a037-4ef5-b4f5-94f9e1b2d22f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НаправленияДеятельности" category="Selection">
+				<xr:TypeId>aff578cc-b1bc-4f3f-93db-158a82d4bf7f</xr:TypeId>
+				<xr:ValueId>d3d0a1bc-de81-4b3f-95cd-ff77ae23d19b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НаправленияДеятельности" category="List">
+				<xr:TypeId>9f78064e-99cd-404c-b301-9e86a802bb43</xr:TypeId>
+				<xr:ValueId>35c2426c-39ed-45c0-9188-dae34947ef34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НаправленияДеятельности" category="Manager">
+				<xr:TypeId>a851a2a2-01b4-4e75-ab25-98efafd612d5</xr:TypeId>
+				<xr:ValueId>a316d921-caca-450c-951a-66bd66fada02</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НаправленияДеятельности</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f5624993-60a2-4ba4-b780-de80c5043a1a</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
