@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:pal="http://v8.1c.ru/8.1/data/ui/colors/palette" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.21">
+	<Document uuid="5f1e7a6f-dd01-428a-9190-e2d7ed15873a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПриходныйОрдер" category="Object">
+				<xr:TypeId>48969c79-d39a-41e4-8ab0-80cfc5b5d7ae</xr:TypeId>
+				<xr:ValueId>1dc808fd-1be3-43db-b4e3-31c67ea8a09e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПриходныйОрдер" category="Ref">
+				<xr:TypeId>c7466df3-e276-454c-ab8c-595f898d1f72</xr:TypeId>
+				<xr:ValueId>71c15509-f56e-41fb-8460-8592ba65c1b5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПриходныйОрдер" category="Selection">
+				<xr:TypeId>9b6e99ca-cda2-4342-be31-3f55fea9ef4e</xr:TypeId>
+				<xr:ValueId>f355fa2e-8da1-4dae-b2be-a2e69e412046</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПриходныйОрдер" category="List">
+				<xr:TypeId>386fcf22-7114-4f30-8295-d477b5d0e06b</xr:TypeId>
+				<xr:ValueId>b5a0f306-c51b-4fc5-b9ee-a6e7a438d56f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПриходныйОрдер" category="Manager">
+				<xr:TypeId>6d129e8b-af92-4536-ae29-0fbe3649e06c</xr:TypeId>
+				<xr:ValueId>284c991b-865d-4b3f-ab4f-0cf98f69aed7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПриходныйОрдер</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f1e2c9ae-b4a9-4ec0-baf2-5aa33653407b</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
